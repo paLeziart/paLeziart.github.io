@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Pierre-Alexandre Léziart # Website name
-baseURL: 'https://paleziart.github.io' # Website URL
+baseURL: 'https://paLeziart.github.io' # Website URL
 
 ############################
 ## LANGUAGE
