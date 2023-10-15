@@ -27,33 +27,33 @@ sections:
   #        description: 10%
   #        icon: camera-retro
   #        icon_pack: fas
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+  #- block: portfolio
+  #  id: projects
+  #  content:
+  #    title: Projects
+  #    filters:
+  #      folders:
+  #        - project
+  #    # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  #    default_button_index: 0
+  #    # Filter toolbar (optional).
+  #    # Add or remove as many filters (`filter_button` instances) as you like.
+  #    # To show all items, set `tag` to "*".
+  #    # To filter by a specific tag, set `tag` to an existing tag name.
+  #    # To remove the toolbar, delete the entire `filter_button` block.
+  #    buttons:
+  #      - name: All
+  #        tag: '*'
+  #      - name: Deep Learning
+  #        tag: Deep Learning
+  #      - name: Other
+  #        tag: Demo
+  #  design:
+  #    # Choose how many columns the section has. Valid values: '1' or '2'.
+  #    columns: '1'
+  #    view: showcase
+  #    # For Showcase view, flip alternate rows?
+  #    flip_alt_rows: false
   - block: collection
     id: featured
     content:
@@ -66,6 +66,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
+    id: recent_publications
     content:
       title: Recent Publications
       text: |-
@@ -107,6 +108,7 @@ sections:
   #    view: compact
   #    columns: '2'
   - block: markdown
+    id: gallery
     content:
       title: Gallery
       subtitle: ''
@@ -130,6 +132,7 @@ sections:
   #  design:
   #    columns: '2'
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -221,7 +224,7 @@ sections:
           date_end: '2019-07-31'
           date_start: '2018-09-01'
           description: |2+
-            * Engineering of Complex Systems, Research track.
+            * Engineering of Complex Systems
             * Academic exchange at Ecole Polytechnique Fédérale de Lausanne, Switzerland.
           organization: École Normale Supérieure de Rennes, France
           organization_url: https://international.ens-rennes.fr/
@@ -241,7 +244,7 @@ sections:
           date_end: '2018-05-30'
           date_start: '2016-09-01'
           description: |2+
-            * Engineering of Complex Systems, Teaching track.
+            * Engineering of Complex Systems
           organization: École Normale Supérieure de Rennes, France
           organization_url: https://international.ens-rennes.fr/
           title: 'Master of Engineering'
