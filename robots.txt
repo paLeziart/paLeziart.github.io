@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://paleziart.github.io/sitemap.xml
