@@ -62,12 +62,12 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=AzZwyIUAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/paleziart
-  - icon: gitlab
-    icon_pack: fab
-    link: https://gitlab.laas.fr/paleziart
+  #- icon: github
+  #  icon_pack: fab
+  #  link: https://github.com/paleziart
+  #- icon: gitlab
+  #  icon_pack: fab
+  #  link: https://gitlab.laas.fr/paleziart
   #- icon: linkedin
   #  icon_pack: fab
   #  link: https://www.linkedin.com/
