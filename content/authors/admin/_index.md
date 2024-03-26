@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Pierre-Alexandre Léziart
+title: Pierre-Alexandre Leziart
 
 # Full name (for SEO)
 first_name: Pierre-Alexandre
-last_name: Léziart
+last_name: Leziart
 
 # Status emoji
 status:
