@@ -18,8 +18,8 @@ role: PostDoc in Robotics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Laboratory of Analysis and Architecture of Systems, Gepetto team
-    url: https://www.laas.fr/public/en/gepetto
+  - name: CNRS-AIST Joint Robotics Laboratory
+    url: https://unit.aist.go.jp/jrl-22022/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''

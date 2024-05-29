@@ -152,7 +152,7 @@ sections:
           date_start: '2024-05-01'
           date_end: ''
           description: |2-
-              My PostDoc has been been focused on exploring legged locomotion for humanoid robots using machine learning approaches. This work is still in its preliminqry phase.
+              My PostDoc has been been focused on exploring legged locomotion for humanoid robots using machine learning approaches. This work is still in its preliminary phase.
         - title: Postdoctoral Fellow
           company: Laboratory of Analysis and Architecture of Systems
           company_url: https://www.laas.fr/public/en/gepetto
@@ -278,7 +278,7 @@ sections:
       text: |-
         Feel free to contact me if you have any question about my work!
       # Contact (add or remove contact options as necessary)
-      email: pa.<!-- abc@def -->leziart@aist.g<!-- @abc.com -->o.jp
+      email: pa.leziart@aist.go.jp
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
