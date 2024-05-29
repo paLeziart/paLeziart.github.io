@@ -282,12 +282,12 @@ sections:
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
-        street: 7 Avenue du Colonel Roche
-        city: Toulouse
-        region: ''
-        postcode: '31400'
-        country: France
-        country_code: FR
+        street: 1-1-1 Umezono
+        city: Tsukuba
+        region: Ibaraki
+        postcode: '305-8560'
+        country: Japan
+        country_code: JP
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
