@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: CaT: Constraints as Terminations for Legged Locomotion Reinforcement Learning
+title: 'CaT: Constraints as Terminations for Legged Locomotion Reinforcement Learning'
 subtitle: ''
 summary: ''
 authors:
