@@ -15,7 +15,7 @@ tags: []
 categories: []
 date: '2023-01-01'
 lastmod: 2023-10-13T18:28:24+02:00
-featured: true
+featured: false
 draft: false
 
 url_pdf: https://hal.science/hal-04174932v1/document
