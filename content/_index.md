@@ -285,7 +285,7 @@ sections:
         street: 1-1-1 Umezono
         city: Tsukuba
         region: Ibaraki
-        postcode: '305-8560'
+        postcode: ', 305-8560, Japan'
         country: Japan
         country_code: JP
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
