@@ -41,4 +41,7 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*ArXiv*'
+links:
+- name: Website
+  url: https://constraints-as-terminations.github.io/
 ---
