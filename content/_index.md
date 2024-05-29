@@ -145,14 +145,23 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Postdoctoral Fellow
+          company: CNRS-AIST Joint Robotics Laboratory
+          company_url: https://unit.aist.go.jp/jrl-22022/en/
+          company_logo: ''
+          location: Tsukuba, Japan
+          date_start: '2024-05-01'
+          date_end: ''
+          description: |2-
+              My PostDoc has been been focused on exploring legged locomotion for humanoid robots using machine learning approaches. This work is still in its preliminqry phase.
+        - title: Postdoctoral Fellow
           company: Laboratory of Analysis and Architecture of Systems
           company_url: https://www.laas.fr/public/en/gepetto
           company_logo: ''
           location: Toulouse, France
           date_start: '2023-11-01'
-          date_end: ''
+          date_end: '2024-04-21'
           description: |2-
-              My PostDoc has been been focused on getting the Sassa quadruped robot ready for the IEEE ICRA 2023 Quadruped Robot Challenge using a reinforcement learning scheme. After that, I have kept exploring reinforcement learning both for Sassa and Solo-12 to get more experience in this rising field for legged robot locomotion.
+              My first PostDoc focused on getting the Sassa quadruped robot ready for the IEEE ICRA 2023 Quadruped Robot Challenge using a reinforcement learning scheme. After that, I kept exploring reinforcement learning both for Sassa and Solo-12 to get more experience in this rising field for legged robot locomotion.
         - title: PhD Student
           company: Laboratory of Analysis and Architecture of Systems
           company_url: https://www.laas.fr/public/en/gepetto
@@ -209,7 +218,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: ''
-          date_end: '2023-10-31'
+          date_end: '2022-10-31'
           date_start: '2019-09-01'
           description: |2+
             * Locomotion control of a lightweight quadruped robot
@@ -269,7 +278,7 @@ sections:
       text: |-
         Feel free to contact me if you have any question about my work!
       # Contact (add or remove contact options as necessary)
-      email: paleziart@laas.fr
+      email: pa.<!-- abc@def -->leziart@aist.g<!-- @abc.com -->o.jp
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
