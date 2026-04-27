@@ -19,7 +19,7 @@ role: PostDoc in Robotics
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: CNRS-AIST Joint Robotics Laboratory
-    url: https://unit.aist.go.jp/jrl-22022/en/
+    url: https://unit.aist.go.jp/isri/isri-jrl/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
@@ -35,6 +35,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Qualified to be a university lecturer
+      institution: French National Council of Universities
+      year: 2026
     - course: PhD in Robotics
       institution: LAAS-CNRS and University of Toulouse, France
       year: 2022
@@ -85,5 +88,5 @@ email: ''
 highlight_name: false
 ---
 
-Postdoctoral fellow focusing on the design, implementation and improvement of state-of-the-art control architectures for legged robots. My research activities are motivated by all the challenges that remain to be tackled to control such complex mechatronic systems in a reliable way in real life situations. The advent of machine learning techniques in recent years has brought plenty of promising results, to the level of what has been achieved by more classical model-based approaches. I am convinced that performances can be pushed even further by combining both approaches to benefit from the best of both worlds.
+Postdoctoral fellow focusing on the design, implementation and improvement of state-of-the-art control architectures for legged robots. My research activities are motivated by all the challenges that remain to be tackled to control such complex mechatronic systems in a reliable way in real life situations. The advent of machine learning techniques in recent years has brought plenty of promising results, to the level of what has been achieved by more classical model-based approaches. I am convinced that performances can be pushed even further by combining both approaches to benefit from the best of both worlds. I also wish to push toward more explainability and more guarantees using these new methods so that they can be deployed in a safer and more thought-out manner.
 {style="text-align: justify;"}

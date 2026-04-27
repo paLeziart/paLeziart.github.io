@@ -218,6 +218,16 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: ''
+          date_end: ''
+          date_start: '2026-04-01'
+          description: |2+
+            * Qualified for Section 61 "Computer engineering, control, signal processing".
+            * This enables me to apply for <i>Maître de conférences</i> positions, which are similar to Assistant/Associate Professors in the French university system.
+          organization: National Council of Universities, France
+          organization_url: 'https://conseil-national-des-universites.fr/cnu/#/'
+          title: 'Qualified to be a university lecturer'
+          url: ''
+        - certificate_url: ''
           date_end: '2022-10-31'
           date_start: '2019-09-01'
           description: |2+
