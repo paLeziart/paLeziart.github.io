@@ -36,7 +36,7 @@ publishDate: '2023-10-13T16:32:31.428565Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*HAL*'
+publication: '*2026 IEEE/SICE International Symposium on System Integration (SII 2026)*'
 links:
 - name: Website
   url: https://humanoid-cat.github.io/

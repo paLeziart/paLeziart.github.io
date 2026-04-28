@@ -40,7 +40,7 @@ publishDate: '2023-10-13T16:32:31.428565Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*ArXiv*'
+publication: '*2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)*'
 links:
 - name: Website
   url: https://constraints-as-terminations.github.io/
