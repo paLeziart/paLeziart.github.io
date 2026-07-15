@@ -18,8 +18,8 @@ role: PostDoc in Robotics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: CNRS-AIST Joint Robotics Laboratory
-    url: https://unit.aist.go.jp/isri/isri-jrl/en/
+  - name: Independent
+  #  url: https://unit.aist.go.jp/isri/isri-jrl/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''

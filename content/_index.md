@@ -149,8 +149,8 @@ sections:
           company_url: https://unit.aist.go.jp/jrl-22022/en/
           company_logo: ''
           location: Tsukuba, Japan
-          date_start: '2024-05-01'
-          date_end: ''
+          date_start: '2024-05-09'
+          date_end: '2026-05-08'
           description: |2-
               My PostDoc has been been focused on exploring legged locomotion for humanoid robots using machine learning approaches. This work is still in its preliminary phase.
         - title: Postdoctoral Fellow
@@ -288,16 +288,16 @@ sections:
       text: |-
         Feel free to contact me if you have any question about my work!
       # Contact (add or remove contact options as necessary)
-      email: pa.leziart@aist.go.jp
+      email: Pending # pa.leziart@aist.go.jp
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
-      address:
-        street: 1-1-1 Umezono
-        city: Tsukuba
-        region: Ibaraki
-        postcode: ', 305-8560, Japan'
-        country: Japan
-        country_code: JP
+      #address:
+      #  street: 1-1-1 Umezono
+      #  city: Tsukuba
+      #  region: Ibaraki
+      #  postcode: ', 305-8560, Japan'
+      #  country: Japan
+      #  country_code: JP
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
