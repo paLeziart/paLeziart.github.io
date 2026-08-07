@@ -16,7 +16,7 @@ tags: []
 categories: []
 date: '2026-07-10'
 lastmod: 2023-10-13T18:28:24+02:00
-featured: true
+featured: false
 draft: false
 
 url_pdf: https://arxiv.org/pdf/2607.14488
