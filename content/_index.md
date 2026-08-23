@@ -288,7 +288,7 @@ sections:
       text: |-
         Feel free to contact me if you have any question about my work!
       # Contact (add or remove contact options as necessary)
-      email: Pending # pa.leziart@aist.go.jp
+      email: palez.pro@pm.me # pa.leziart@aist.go.jp
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       #address:
